@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Brew
 Version  : 0.02
-Release  : 7
+Release  : 8
 URL      : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Summary  : No detailed summary available
@@ -20,6 +20,7 @@ Text::Brew - An implementation of the Brew edit distance in Perl, defined in
 Summary: dev components for the perl-Text-Brew package.
 Group: Development
 Provides: perl-Text-Brew-devel = %{version}-%{release}
+Requires: perl-Text-Brew = %{version}-%{release}
 
 %description dev
 dev components for the perl-Text-Brew package.
