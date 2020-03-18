@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Brew
 Version  : 0.02
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Summary  : No detailed summary available
@@ -81,4 +81,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Text/Brew.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Text/Brew.pm
