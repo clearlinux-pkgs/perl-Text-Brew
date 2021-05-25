@@ -4,7 +4,7 @@
 #
 Name     : perl-Text-Brew
 Version  : 0.02
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KC/KCIVEY/Text-Brew-0.02.tar.gz
 Summary  : No detailed summary available
